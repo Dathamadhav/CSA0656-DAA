@@ -5,7 +5,7 @@ int main() {
     int num, originalNum, remainder, n = 0;
     double result = 0.0;
 
-    printf("Isha Singh-192210252\n");
+    printf("Dathamadhav-192011450\n");
 	printf("Enter an integer: ");
     scanf("%d", &num);
 
@@ -31,3 +31,4 @@ int main() {
 
     return 0;
 }
+ha
