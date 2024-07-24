@@ -14,7 +14,7 @@ void bubbleSort(int arr[], int n) {
 
 int main() {
     int n,i;
-    printf("Isha Singh-192210252\n");
+    printf("Datha madhav-192011450\n");
     printf("Enter the number of elements in the array: ");
     scanf("%d", &n);
 
