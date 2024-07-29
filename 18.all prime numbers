@@ -22,7 +22,7 @@ void sieveOfEratosthenes(int n) {
 
 int main() {
     int n;
-    printf("Isha Singh-192210252\n");
+    printf("Datha madhav-192011450\n");
     printf("Enter the limit: ");
     scanf("%d", &n);
     printf("Prime numbers up to %d are:\n", n);
